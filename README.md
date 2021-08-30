@@ -1,3 +1,5 @@
 ### Currently...
+:hammer_and_wrench: Senior Engineer at Digimancy Entertainment, making games using Unity / C#. All under an NDA so my GH will be fairly quiet for a while.
 
-:hammer_and_wrench: Educational simulations & games, mostly React / Javascript, some Unity3d C#
+### Previously...
+:hammer_and_wrench: Educational simulations & games, mostly React / Javascript, some Unity3d C#.
