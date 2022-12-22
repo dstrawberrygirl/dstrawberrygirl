@@ -3,3 +3,5 @@
 
 ### Previously...
 :hammer_and_wrench: Educational simulations & games, mostly React / Javascript, some Unity3d C#.
+
+<a rel="me" href="https://mastodon.gamedev.place/@dstrawberrygirl">Find me on Mastodon</a>
